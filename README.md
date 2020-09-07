@@ -1,3 +1,3 @@
-# ShinyDashboard
+# ShinyDashboardDemo
 
 konutech.shinyapps.io/userInterface/
